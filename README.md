@@ -147,6 +147,9 @@ We group links and papers into different categories. Some domains overlap in dif
 #### Anonymity
 - [k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY](https://www.win.tue.nl/~jhartog/CourseVerif/Papers/10.1.1.90.4099.pdf) 
 
+#### Decentralized Trust
+- [Reflections on trusting distributed trust](https://arxiv.org/pdf/2210.08127.pdf)
+
 #### Decentralized Identity
 - [Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies](https://bford.info/pub/dec/pop.pdf)
 - [Decentralized Trust Management](https://www.ieee-security.org/TC/SP2020/tot-papers/blaze-1996.pdf)
@@ -174,6 +177,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://link.springer.com/content/pdf/10.1007/3-540-44987-6_7.pdf)
 - [A Truly Self-Sovereign Identity System](https://arxiv.org/pdf/2007.00415.pdf)
 - [SAVER: SNARK-friendly, Additively-homomorphic, and Verifiable Encryption and decryption with Rerandomization](https://eprint.iacr.org/2019/1270.pdf)
+- [ZEBRA: Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi](https://eprint.iacr.org/2022/1286.pdf)
 
 #### Decentralized scoring system (reputation & recommendation)
 - [Privacy-Preserving Reputation Systems based on Blockchain and other Cryptographic Building Blocks: A Survey](https://perso.liris.cnrs.fr/omar.hasan/publications/hasan_2021_acm.pdf)
@@ -343,6 +347,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Pesca: A Privacy-Enhancing Smart-Contract Architecture](https://wdai.us/files/2022/PESCA.pdf)
 - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249.pdf)
 - [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://thanghoang.github.io/teaching/sp21/cs5594/files/paper/zkay.pdf)
+- [Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning](https://www.usenix.org/system/files/sec21-zheng.pdf)
 
 #### Multi Party Computation
 - [MP-SPDZ: A Versatile Framework for Multi-Party Computation](https://eprint.iacr.org/2020/521.pdf)
@@ -432,8 +437,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Partitioning Oracle Attacks](https://www.usenix.org/system/files/sec21_slides_len.pdf)
 - [Implementing and Proving the TLS 1.3 Record Layer](https://cseweb.ucsd.edu/~dstefan/cse227-spring20/papers/tls1.3.pdf)
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
-- [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://dl.acm.org/doi/pdf/10.1145/3474123.3486763)
-- [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/522340/3474123.3486763.pdf?sequence=3&isAllowed=y)
+- [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://dl.acm.org/doi/pdf/10.1145/3474123.3486763), [link2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/522340/3474123.3486763.pdf?sequence=3&isAllowed=y)
 
 #### Identity Airdrops
 - [POAP - The bookmarks of your life](https://poap.xyz/)
@@ -466,6 +470,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [GET protocol: Ticketing is the start of something bigger](https://www.get-protocol.io/white-label)
 - [SISMO: The key primitive for web3 identities](https://www.sismo.io/)
 - [Proof of Interest](https://whitepaper.firstbatch.xyz/)
+- [MystenLabs: Enigneering asset ownership](https://mystenlabs.com/)
 
 #### Bridges
 - [Arbitrum: The most secure L2](https://bridge.arbitrum.io/)
@@ -519,6 +524,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [IDEN3: Scalable distributed identity infrastructure using zero-knowledge proofs to guarantee privacy](https://www.youtube.com/watch?v=VFD2Z_mlSbM)
 - [Iden3 Documentation: Iden3 Docs](https://docs.iden3.io/)
 - [Circom and SnarkJS](https://docs.iden3.io/circom-snarkjs/)
+- [zkDocs](https://github.com/a16z/zkdocs)
 
 #### MPC
 - [MPC-SoK Frameworks](https://github.com/MPC-SoK)
@@ -550,6 +556,8 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Kepler](https://www.kepler.xyz/), [docs](https://github.com/spruceid)
 - [Storj](https://www.storj.io/), [paper](https://www.storj.io/storj.pdf)
 - [Filecoin](https://filecoin.io/), [paper](https://filecoin.io/filecoin.pdf)
+- [Gitcoin Passport](https://passport.gitcoin.co/)
+- [Sismo](https://www.sismo.io/)
 
 #### Other projects
 - [brightID](https://www.brightid.org/), [docs](https://github.com/BrightID)
@@ -614,6 +622,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Vitalik Buterin](https://www.youtube.com/watch?v=kGjFTzRTH3Q)
 - [Dahlia Malkhi](https://dahliamalkhi.github.io/publications/)
 - [Pratyush Mishra](https://pratyushmishra.com/)
+- [E. Glen Weyl](https://scholar.google.com/citations?user=gadgSR4AAAAJ&hl=en&oi=sra)
 
 ---
 
@@ -644,6 +653,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [rekt](https://rekt.news/)
 - [Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
 - [YCombinator: Hacker News](https://news.ycombinator.com/)
+- [Gitcoin Grants](https://gitcoin.co/grants/)
 
 ---
 
