@@ -78,6 +78,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [UC Model Youtube: MACS Frontier](https://www.youtube.com/channel/UCIm7ruYT6rUvhm76YeIKiLw)
 - [Zero Knowledge](https://www.youtube.com/channel/UCYWsYz5cKw4wZ9Mpe4kuM_g)
 - [Grand Amphi Théatre](https://www.youtube.com/channel/UC_kOxlaYNOTtNwtwySZ0B8w)
+- [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq)
 
 ## Mostly Research Papers
 
@@ -682,6 +683,7 @@ We group links and papers into different categories. Some domains overlap in dif
 #### Value
 - [Youtube: OAuth 2.0 & OpenID Connect (OIDC): Technical Overview](https://www.youtube.com/watch?v=rTzlF-U9Y6Y)
 - [A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+- [Learn Kubernetes](https://youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
 
 #### Website Value
 - [Explore the world’s leading design portfolios](https://dribbble.com/)
