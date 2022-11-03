@@ -82,10 +82,15 @@ We group links and papers into different categories. Some domains overlap in dif
 
 ## Mostly Research Papers
 
-#### Number Theory (Finite Fields, Modular Arithmetic, Groups, Primes, Curves, etc)
+#### Number Theory (Finite Fields, Modular Arithmetic, Groups, Primes, Curves, Pairings etc)
 - [Finite Fields in Cryptography: Why and How](https://www.youtube.com/watch?v=ColSUxhpn6A)
 - [explained-from-first-principles: Number theory](https://explained-from-first-principles.com/number-theory/)
 - [Elliptic Curve Cryptography (ECC)](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
+- [A survey of elliptic curves for proof systems](https://eprint.iacr.org/2022/586.pdf)
+- [The animated elliptic curve](https://curves.xargs.org/)
+- [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
+- [Pairings for beginners](http://infosec.pusan.ac.kr/wp-content/uploads/2019/09/Pairings-For-Beginners.pdf)
+- [introduction to mathematical cryptography](https://drive.google.com/drive/u/1/folders/1ILBHUZrDZDku3HfK1yyp6AbBD_F3nRm5)
 
 #### Hash Functions
 - [6 4 Constructing compression functions 8 min](https://www.youtube.com/watch?v=QukLrvrnr3U)
@@ -655,6 +660,15 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
 - [YCombinator: Hacker News](https://news.ycombinator.com/)
 - [Gitcoin Grants](https://gitcoin.co/grants/)
+
+
+---
+
+## Zero Knowledge Implementations
+
+- [Scaling Relic Protocol with zk-SNARKs](https://relicprotocol.medium.com/scaling-relic-protocol-with-zk-snarks-7c5c319c8e9f)
+- [Fantastic Zero-Knowledge Proofs](https://medium.com/@outsideranalytics/fantastic-zero-knowledge-proofs-ef4bb746f838)
+- [The Zero-Knowledge Landscape](https://page1.substack.com/p/the-zero-knowledge-landscape?s=r)
 
 ---
 
