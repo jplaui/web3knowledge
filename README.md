@@ -50,6 +50,8 @@ We group links and papers into different categories. Some domains overlap in dif
 - [How To Script An Automatic Token Airdrop for 40k subscribers](https://medium.com/hackernoon/how-to-script-an-automatic-token-airdrop-for-40k-subscribers-e40c8b1a02c6)
 - [Zero Knowledge in DiDs and Social Networks](https://mirror.xyz/0xd8159c4DD43FEe99FA86D0BAaCA7a9cC33334864/NzuSXZ5rlgKMrdI6CdplM-03RHia6-k0ei67h3rPp-Y)
 - [How DECO Enables Undercollateralized DeFi Lending: A Proof of Concept With Teller](https://blog.chain.link/undercollateralized-lending-teller-deco-poc/)
+- [On-chain identity landscape](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8)
+- [Unlocking Web3 Identity: Blockchains, Credentials, and Oracles](https://blog.chain.link/web3-identity-blockchains-credentials-oracles/)
 
 #### Education Resources
 - [CS294/194-196: Special Topics on Science and Technology of Decentralization and Decentralized Intelligence](https://berkeley-desys.github.io/s22)
@@ -79,6 +81,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Zero Knowledge](https://www.youtube.com/channel/UCYWsYz5cKw4wZ9Mpe4kuM_g)
 - [Grand Amphi Théatre](https://www.youtube.com/channel/UC_kOxlaYNOTtNwtwySZ0B8w)
 - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq)
+- [Porter ZK Class](https://www.youtube.com/@portport)
 
 ## Mostly Research Papers
 
@@ -137,6 +140,11 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation](https://eprint.iacr.org/2019/317.pdf)
 - [PlonK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
 - [Darlin: Recursive proofs using Marlin](https://arxiv.org/pdf/2107.04315.pdf)
+
+#### Dedicated Verifier Proofs
+- [Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs](https://eprint.iacr.org/2022/082.pdf)
+- [Mac’n’Cheese: Zero-Knowledge Proofs for Boolean and Arithmetic Circuits with Nested Disjunctions](https://eprint.iacr.org/2020/1410.pdf)
+- [QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field](https://dl.acm.org/doi/abs/10.1145/3460120.3484556)
 
 #### Short-lived ZKPs
 - [Short-lived zero-knowledge proofs and signatures](https://eprint.iacr.org/2022/190.pdf)
@@ -305,6 +313,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Marvel DC: A Blockchain-Based Decentralized and Incentive-Compatible Distributed Computing Protocol](https://arxiv.org/pdf/2207.14011.pdf)
 - [Towards Efficient Data Valuation Based on the Shapley Value](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf)
 - [AuthSC: Mind the Gap between Web and Smart Contracts](https://arxiv.org/pdf/2004.14033.pdf)
+- [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435.pdf)
 
 #### User Centricity and Data Sovereignty
 - [User Centricity: A Taxonomy and Open Issues](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.343&rep=rep1&type=pdf)
@@ -444,6 +453,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Implementing and Proving the TLS 1.3 Record Layer](https://cseweb.ucsd.edu/~dstefan/cse227-spring20/papers/tls1.3.pdf)
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
 - [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://dl.acm.org/doi/pdf/10.1145/3474123.3486763), [link2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/522340/3474123.3486763.pdf?sequence=3&isAllowed=y)
+- [Whom You Gonna Trust? A Longitudinal Study on TLS Notary Services](https://publications.sba-research.org/publications/TLSnotaries_preprint.pdf)
 
 #### Identity Airdrops
 - [POAP - The bookmarks of your life](https://poap.xyz/)
@@ -531,6 +541,10 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Iden3 Documentation: Iden3 Docs](https://docs.iden3.io/)
 - [Circom and SnarkJS](https://docs.iden3.io/circom-snarkjs/)
 - [zkDocs](https://github.com/a16z/zkdocs)
+- [Protecting Private Communication Channels with Designated Verifier Proofs](https://github.com/enricobottazzi/designated-verifier-proof)
+
+#### Trusted Setup
+- [Aleo-setup](https://github.com/AleoHQ/aleo-setup)
 
 #### MPC
 - [MPC-SoK Frameworks](https://github.com/MPC-SoK)
@@ -698,6 +712,10 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Youtube: OAuth 2.0 & OpenID Connect (OIDC): Technical Overview](https://www.youtube.com/watch?v=rTzlF-U9Y6Y)
 - [A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 - [Learn Kubernetes](https://youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
+- [zk email](https://www.youtube.com/watch?v=w7UAcsptyeo&t=22335s)
 
 #### Website Value
 - [Explore the world’s leading design portfolios](https://dribbble.com/)
+
+#### News
+- [eIDAS 2: the countdown to a single European Digital ID Wallet has begun](https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/identity/eidas-regulations)
