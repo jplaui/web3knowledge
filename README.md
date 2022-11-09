@@ -542,6 +542,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Circom and SnarkJS](https://docs.iden3.io/circom-snarkjs/)
 - [zkDocs](https://github.com/a16z/zkdocs)
 - [Protecting Private Communication Channels with Designated Verifier Proofs](https://github.com/enricobottazzi/designated-verifier-proof)
+- [Personae Labs](https://github.com/personaelabs)
 
 #### Trusted Setup
 - [Aleo-setup](https://github.com/AleoHQ/aleo-setup)
