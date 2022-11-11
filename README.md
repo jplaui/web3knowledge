@@ -19,6 +19,7 @@ We group links and papers into different categories. Some domains overlap in dif
 - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
 - [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+- [Enhancing Ethereum through cryptographic research.](https://appliedzkp.org/)
 
 #### Value Blogs and Posts
 - [David Killer Crypto Blog](https://www.cryptologie.net/)
