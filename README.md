@@ -18,6 +18,8 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 :video_camera:      Video tutorial
 
+:dizzy:             Stellar resource, not from this earth
+
 ## Content
 
 - [Web 3.0 Definitions](#web-3.0-definitions)
@@ -41,7 +43,10 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ## Cryptography
 
+- :dizzy: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 - :bomb: [Crypto Stackexchange](https://crypto.stackexchange.com)
+- :green_book: [Cryptopals - Collection of challenges on basic cryptography](https://cryptopals.com/)
+- :video_camera: :dizzy: [ZK Hack - ZK Whiteboard sessions](https://zkhack.dev/whiteboard/module-one/)
 
 ## Computer Security
 
@@ -49,6 +54,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ## Zero Knowledge
 
+- :dizzy: [Proofs, Arguments and Zero-Knowledge (Justin Thaler)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - :bomb: [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - :bomb: [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
 
