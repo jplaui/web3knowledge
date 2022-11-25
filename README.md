@@ -1,12 +1,40 @@
-# Web3Knowledge
+# Awesome Web3Knowledge
 
-Collection of links to valuable resources.
+:cake: A collection of awesome knowledge about Web 3.0
 
-## Introduction
+## Classification
 
-We group links and papers into different categories. Some domains overlap in different categories so its worth checking all categories. No resources are listed twice.
+Throughout this list you'll find emojis next to resources, here's what each of them indicates:
+
+:scroll:            Scientific paper
+
+:books:             Course, long series or complete series
+
+:file_folder:       Documentation
+
+:green_book:        Specific, written tutorial
+
+:video_camera:      Video tutorial
+
+## Content
+
+- [Mathematical Background](#mathematical-background)
+- [Decentralized Finance](#decentralized-finance)
+- [Decentralized Identity](#decentralized-identity)
+- [Programming](#programming)
 
 ---
+
+### Mathematical Background
+
+### Zero Knowledge
+
+### Decentralized Finance
+
+### Decentralized Identity
+
+### Programming
+
 
 ### Links
 
