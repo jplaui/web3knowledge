@@ -43,7 +43,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ## Cryptography
 
-- :dizzy: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+- :dizzy: [A Graduate Course in Applied Cryptography (Dan Boneh)](http://toc.cryptobook.us/)
 - :bomb: [Crypto Stackexchange](https://crypto.stackexchange.com)
 - :green_book: [Cryptopals - Collection of challenges on basic cryptography](https://cryptopals.com/)
 - :video_camera: :dizzy: [ZK Hack - ZK Whiteboard sessions](https://zkhack.dev/whiteboard/module-one/)
@@ -57,8 +57,17 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :dizzy: [Proofs, Arguments and Zero-Knowledge (Justin Thaler)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - :bomb: [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - :bomb: [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
+- :video_camer: [CESC ZKP Workshop](https://www.youtube.com/watch?v=SzBDWyJ3X6U&list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8)
+
+## Blockchain Security
+
+- :video_camera: [Blockchain Lecture (Arthur Gervais)](https://www.youtube.com/watch?v=wlVFc7JklPY&list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
 
 ## Decentralized Finance
+
+- :video_camera: [Decentralized Finance Lecture (Arthur Gervais)](https://www.youtube.com/watch?v=wlVFc7JklPY&list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
+- :video_camera: [Decentralized Finance MOOC (Berkeley)](https://www.youtube.com/watch?v=gX3mc83CJtQ&list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_)
+
 
 ## Decentralized Identity
 
@@ -78,6 +87,9 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :video_camera: [Rust Crypto Engineering Study Group](https://drive.google.com/drive/folders/1506sz7G5o6ATeGObP1AEwMV4msaLK3HD)
 
 ### Solidity
+
+
+------------------------------------------------------------
 
 ### Links
 
