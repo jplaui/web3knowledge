@@ -10,6 +10,8 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 :books:             Course, long series or complete series
 
+:bomb:              Collection of valuable resources
+
 :file_folder:       Documentation
 
 :green_book:        Specific, written tutorial
@@ -18,38 +20,66 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ## Content
 
+- [Web 3.0 Definitions](#web-3.0-definitions)
 - [Mathematical Background](#mathematical-background)
+- [Cryptography](#cryptography)
+- [Computer Security](#computer-security)
+- [Zero Knowledge](#zero-knowledge)
 - [Decentralized Finance](#decentralized-finance)
+  - [Smart Contract Security](#smart-contract-security)
 - [Decentralized Identity](#decentralized-identity)
 - [Programming](#programming)
+  - [Golang](#golang)
+  - [Rust](#rust)
+  - [Solidity](#solidity)
 
 ---
 
-### Mathematical Background
+## Web 3.0 Definitions
 
-### Zero Knowledge
+## Mathematical Background
 
-### Decentralized Finance
+## Cryptography
 
-### Decentralized Identity
+- :bomb: [Crypto Stackexchange](https://crypto.stackexchange.com)
 
-### Programming
+## Computer Security
 
+- :bomb: [Asecuritysite.com](https://asecuritysite.com/)
+
+## Zero Knowledge
+
+- :bomb: [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
+- :bomb: [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
+
+## Decentralized Finance
+
+## Decentralized Identity
+
+- :bomb: [Kantara Identity](https://kantara.atlassian.net/wiki/spaces/GI/overview)
+- :bomb: [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
+
+## Programming
+
+- :bomb: [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+
+### Golang
+
+### Rust
+
+- :books: [Rust Crypto Engineering Course](https://uncloak.org/courses/rust+cryptography+engineering/course-Rust+Cryptography+Engineering+Study+Group+Syllabus)
+- :books: [Rust Crypto Engineering Study Group](https://hackmd.io/@thor314/ryEWRY6Qs)
+- :video_camera: [Rust Crypto Engineering Study Group](https://drive.google.com/drive/folders/1506sz7G5o6ATeGObP1AEwMV4msaLK3HD)
+
+### Solidity
 
 ### Links
 
 #### Value Links
 
-- [Crypto Stackexchange](https://crypto.stackexchange.com)
-- [Asecuritysite.com](https://asecuritysite.com/)
 - [A curated list of multi party computation resources and links.](https://github.com/rdragos/awesome-mpc)
 - [Explore connected papers in a visual graph](https://www.connectedpapers.com/)
-- [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - [researchrabbit ai](https://researchrabbitapp.com/)
-- [Kantara Identity](https://kantara.atlassian.net/wiki/spaces/GI/overview)
-- [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
-- [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 
 #### Value Blogs and Posts
 
