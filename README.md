@@ -12,6 +12,8 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 :bomb:              Collection of valuable resources
 
+:school:            A programming library
+
 :file_folder:       Documentation
 
 :green_book:        Specific, written tutorial
@@ -28,6 +30,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - [Computer Security](#computer-security)
 - [Zero Knowledge](#zero-knowledge)
 - [Decentralized Finance](#decentralized-finance)
+  - [Ethereum](#ethereum)
   - [Smart Contract Security](#smart-contract-security)
 - [Decentralized Identity](#decentralized-identity)
 - [Programming](#programming)
@@ -68,6 +71,11 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :video_camera: [Decentralized Finance Lecture (Arthur Gervais)](https://www.youtube.com/watch?v=wlVFc7JklPY&list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
 - :video_camera: [Decentralized Finance MOOC (Berkeley)](https://www.youtube.com/watch?v=gX3mc83CJtQ&list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_)
 
+### Ethereum
+
+- :school: [Ranger - A Rust library for listening to P2P traffic without a full node](https://github.com/Rjected/ranger)
+
+### Smart Contract Security
 
 ## Decentralized Identity
 
