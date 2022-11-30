@@ -27,6 +27,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - [Web 3.0 Definitions](#web-3.0-definitions)
 - [Mathematical Background](#mathematical-background)
 - [Cryptography](#cryptography)
+  - [Elliptic Curves](#elliptic-curves)
 - [Computer Security](#computer-security)
 - [Zero Knowledge](#zero-knowledge)
 - [Decentralized Finance](#decentralized-finance)
@@ -50,6 +51,11 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :bomb: [Crypto Stackexchange](https://crypto.stackexchange.com)
 - :green_book: [Cryptopals - Collection of challenges on basic cryptography](https://cryptopals.com/)
 - :video_camera: :dizzy: [ZK Hack - ZK Whiteboard sessions](https://zkhack.dev/whiteboard/module-one/)
+  
+### Elliptic Curves
+
+- :books: [Elliptic Curve Cryptography: a gentle introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+- :books: [BLS12-381 for the rest of us](https://hackmd.io/@benjaminion/bls12-381#BLS12-381-For-The-Rest-Of-Us)
 
 ## Computer Security
 
