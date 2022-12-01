@@ -108,11 +108,22 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ### Researchers to follow by domain
 
-<style scoped>
-table {
-  font-size: 13px;
-}
-</style>
+<table>
+  <thead>
+    <tr>
+      <th><sub>Test Case</sub></th>
+      <th><sub>Brief Explanation</sub></th><th><sub>Go Result</sub></th><th><sub>Python Result</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><sub>simple</sub></td>
+      <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
+      <td><sub>Fail</sub></td>
+      <td><sub>Pass</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 | Name                  | Blockchain Security | Consensus Algorithms  |  Decentralized Finance  | Decentralized Identity  |
 | :---           | :----:         | :----:           | :----:             | :----:             |
