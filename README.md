@@ -122,9 +122,18 @@ Throughout this list you'll find emojis next to resources, here's what each of t
     <tr>
       <td><sub><a href="https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao">Dawn Song</a></sub></td>
       <th><sub><span>&#10003;</span></sub></th>
-      <td><sub><span>&#10003;</span></sub></td>
-      <td><sub><span>&#10003;</span></sub></td>
-      <td><sub><span>&#10003;</span></sub></td>
+      <th><sub><span>&#10003;</span></sub></th>
+      <th><sub><span>&#10003;</span></sub></th>
+      <th><sub><span>&#10003;</span></sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><sub><a href="https://scholar.google.com/citations?user=jLr_xi4AAAAJ&hl=en&oi=ao">Arthur Gervais</a></sub></td>
+      <th><sub><span>&#10003;</span></sub></th>
+      <th><sub> </sub></th>
+      <th><sub><span>&#10003;</span></sub></th>
+      <th><sub> </sub></th>
     </tr>
   </tbody>
 </table>
