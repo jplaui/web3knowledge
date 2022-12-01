@@ -112,15 +112,19 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   <thead>
     <tr>
       <th><sub>Name</sub></th>
-      <th><sub>Blockchain Security</sub></th><th><sub>Consensus Algorithms</sub></th><th><sub>Decentralized Finance</sub></th><th><sub>Decentralized Identity</sub></th>
+      <th><sub>Blockchain Security</sub></th>
+      <th><sub>Consensus Algorithms</sub></th>
+      <th><sub>Decentralized Finance</sub></th>
+      <th><sub>Decentralized Identity</sub></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><sub><a href="https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao">Dawn Song</a></sub></td>
-      <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
-      <td><sub>Fail</sub></td>
-      <td><sub>Pass</sub></td>
+      <th><sub><span>&#10003;</span></sub></th>
+      <td><sub><span>&#10003;</span></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
     </tr>
   </tbody>
 </table>
