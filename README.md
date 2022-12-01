@@ -68,7 +68,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :dizzy: [Proofs, Arguments and Zero-Knowledge (Justin Thaler)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - :bomb: [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - :bomb: [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
-- :video_camer: [CESC ZKP Workshop](https://www.youtube.com/watch?v=SzBDWyJ3X6U&list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8)
+- :video_camera: [CESC ZKP Workshop](https://www.youtube.com/watch?v=SzBDWyJ3X6U&list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8)
 
 ## Blockchain Security
 
@@ -137,12 +137,6 @@ Throughout this list you'll find emojis next to resources, here's what each of t
     </tr>
   </tbody>
 </table>
-
-<!-- | Name                  | Blockchain Security | Consensus Algorithms  |  Decentralized Finance  | Decentralized Identity  |
-| :---           | :----:         | :----:           | :----:             | :----:             |
-| [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao)             | :white_check_mark:  |                       |                         |                         |
-| [Arthur Gervais](https://scholar.google.com/citations?user=jLr_xi4AAAAJ&hl=en&oi=ao)        | :white_check_mark:  |                       |                         |                         | -->
-
 
 ------------------------------------------------------------
 
