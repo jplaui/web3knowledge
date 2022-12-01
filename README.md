@@ -108,6 +108,12 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ### Researchers to follow by domain
 
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
+
 | Name                  | Blockchain Security | Consensus Algorithms  |  Decentralized Finance  | Decentralized Identity  |
 | :---           | :----:         | :----:           | :----:             | :----:             |
 | [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao)             | :white_check_mark:  |                       |                         |                         |
