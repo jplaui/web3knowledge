@@ -111,13 +111,13 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 <table>
   <thead>
     <tr>
-      <th><sub>Test Case</sub></th>
-      <th><sub>Brief Explanation</sub></th><th><sub>Go Result</sub></th><th><sub>Python Result</sub></th>
+      <th><sub>Name</sub></th>
+      <th><sub>Blockchain Security</sub></th><th><sub>Consensus Algorithms</sub></th><th><sub>Decentralized Finance</sub></th><th><sub>Decentralized Identity</sub></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><sub>simple</sub></td>
+      <td><sub><a href="https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao">Dawn Song</a></sub></td>
       <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
       <td><sub>Fail</sub></td>
       <td><sub>Pass</sub></td>
@@ -125,10 +125,10 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   </tbody>
 </table>
 
-| Name                  | Blockchain Security | Consensus Algorithms  |  Decentralized Finance  | Decentralized Identity  |
+<!-- | Name                  | Blockchain Security | Consensus Algorithms  |  Decentralized Finance  | Decentralized Identity  |
 | :---           | :----:         | :----:           | :----:             | :----:             |
 | [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao)             | :white_check_mark:  |                       |                         |                         |
-| [Arthur Gervais](https://scholar.google.com/citations?user=jLr_xi4AAAAJ&hl=en&oi=ao)        | :white_check_mark:  |                       |                         |                         |
+| [Arthur Gervais](https://scholar.google.com/citations?user=jLr_xi4AAAAJ&hl=en&oi=ao)        | :white_check_mark:  |                       |                         |                         | -->
 
 
 ------------------------------------------------------------
