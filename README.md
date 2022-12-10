@@ -30,6 +30,9 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   - [Elliptic Curves](#elliptic-curves)
 - [Computer Security](#computer-security)
 - [Zero Knowledge](#zero-knowledge)
+  - [PLONK](#plonk)
+  - [Multi-Verifier Proofs](#multi-verifier-proofs)
+  - [Interactive Proofs based on VOLE](#interactive-proofs-based-on-vole)
 - [Decentralized Finance](#decentralized-finance)
   - [Ethereum](#ethereum)
   - [Smart Contract Security](#smart-contract-security)
@@ -43,7 +46,9 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ---
 
-## Web 3.0 Definitions
+## Web 3.0 Definitions & Overviews
+
+- :bomb: [Blockchain Roadmap - Everything you need to know](https://roadmap.sh/blockchain)
 
 ## Mathematical Background
 
@@ -69,6 +74,25 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :bomb: [ZK Research](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - :bomb: [ingopedia: A curated list of ZK resources and links.](https://github.com/ingonyama-zk/ingopedia)
 - :video_camera: [CESC ZKP Workshop](https://www.youtube.com/watch?v=SzBDWyJ3X6U&list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8)
+
+### PLONK
+
+- :bomb: [Awesome-PLONK](https://github.com/fluidex/awesome-plonk/blob/main/README.md)
+- :books: [Polynomial IOP PLONK - Introduction Dan Boneh](https://www.youtube.com/watch?v=vxyoPM2m7Yg)
+
+### Multi-Verifier Proofs
+
+- :scroll: [2022-067 MVZK Xiao Wang](https://eprint.iacr.org/2022/063.pdf)
+- :scroll: [2022-082 Feta Carsten Baum](https://eprint.iacr.org/2022/082.pdf)
+- :scroll: [2022-167 MVZK Applebaum](https://eprint.iacr.org/2022/167.pdf)
+
+### Interactive Proofs based on VOLE
+
+- :scroll: [Introduction Vector Oblivious Linear Evaluation (Peter Scholl)](http://cyber.biu.ac.il/wp-content/uploads/2021/11/Vector_Oblivious_Linear_Evaluation-1.pdf)
+- :scroll: [2020-925 Wolverine Chenkai Weng](https://eprint.iacr.org/2020/925.pdf?ref=https://githubhelp.com)
+- :scroll: [2020-1410 Mac'N'Cheese Carsten Baum](https://eprint.iacr.org/2020/1410.pdf)
+- :scroll: [2021-076 QuickSilver Kang Yang](https://eprint.iacr.org/2021/076.pdf?ref=https://githubhelp.com)
+- :scroll: [2022-566 AntMan Chenkai Weng](https://eprint.iacr.org/2022/566.pdf)
 
 ## Blockchain Security
 
