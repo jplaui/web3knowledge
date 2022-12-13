@@ -1062,6 +1062,7 @@ This section is about running blockchain nodes and scaling of backend services.
 - [Implementing and Proving the TLS 1.3 Record Layer](https://cseweb.ucsd.edu/~dstefan/cse227-spring20/papers/tls1.3.pdf)
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
 - [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://dl.acm.org/doi/pdf/10.1145/3474123.3486763), [link2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/522340/3474123.3486763.pdf?sequence=3&isAllowed=y)
+- [Whom You Gonna Trust? A Longitudinal Study on TLS Notary Services](https://publications.sba-research.org/publications/TLSnotaries_preprint.pdf)
 
 ### Decentralizing IoT Management
 
