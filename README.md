@@ -142,7 +142,6 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :green_book: [Web5: The Decentralized Web Platform](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 - :green_book: [What is Web5, Jack Dorsey’s latest idea?](https://medium.com/geekculture/what-is-web5-jack-dorseys-latest-idea-d40d3a2e4973)
 - :green_book: [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
-- :green_book: [Medium: Arthur Hayes](https://cryptohayes.medium.com/)
 - :green_book: [Decentralized Identity: Passport to Web3](https://medium.com/amber-group/decentralized-identity-passport-to-web3-d3373479268a)
 
 
