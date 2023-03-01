@@ -40,7 +40,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 - [Web 3.0 Definitions](#web-3.0-definitions)
 - [Cryptography](#cryptography)
-  - [Number Theory](#number-theory)
+  - [Number Theory Curves Fields](#number-theory-curves-fields)
   - [Elliptic Curves](#elliptic-curves)
   - [Hash Functions](#hash-functions)
   - [Pairings](#pairings)
@@ -48,6 +48,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   - [Accumulators](#accumulators)
   - [Merkle Trees](#merkle-trees)
   - [Universal Composability (UC) Model Security](#universal-composability-model-security)
+  - [Threshold Cryptography](#threshold-cryptography)
 - [Constraint Systems and Arithmetization](#constraint-systems-and-arithmetization)
   - [Rank1 Constraint System (R1CS) and Quadratic Arithmetic Programs (QAPs)](#rank1-constraint-system-and-quadratic-arithmetic-programs)
   - [PLONK Arithemtization](#plonk-arithemtization)
@@ -63,6 +64,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   - [Multi-Verifier Proofs](#multi-verifier-proofs)
   - [Multi-Prover Proofs](#multi-prover-proofs)
   - [Designated-Verifier Proofs](#designated-verifier-proofs)
+  - [Garbled Circuits](#garbled-circuits)
   - [Interactive Proofs based on VOLE](#interactive-proofs-based-on-vole)
   - [zk Virtual Machines](#zk-virtual-machines)
 - [Decentralized Finance](#decentralized-finance)
@@ -154,11 +156,12 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - :video_camera: :dizzy: [ZK Hack - ZK Whiteboard sessions](https://zkhack.dev/whiteboard/module-one/)
 - :green_book: [David Crypto Blog](https://www.cryptologie.net/)
 
-### Number Theory
+### Number Theory Curves Fields
 
-- [Finite Fields in Cryptography: Why and How](https://www.youtube.com/watch?v=ColSUxhpn6A)
+- :video_camera: [Finite Fields in Cryptography: Why and How](https://www.youtube.com/watch?v=ColSUxhpn6A)
 - [explained-from-first-principles: Number theory](https://explained-from-first-principles.com/number-theory/)
 - [introduction to mathematical cryptography](https://drive.google.com/drive/u/1/folders/1ILBHUZrDZDku3HfK1yyp6AbBD_F3nRm5)
+- :green_book: [Explaining BLS12–381 … The “Zero Knowledge Proof” Curve](https://medium.com/asecuritysite-when-bob-met-alice/explaining-bls12-381-the-zero-knowledge-proof-curve-aa5eabec8261)
 
 ### Elliptic Curves
 
@@ -172,12 +175,14 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 
 ### Hash Functions
 
-- [6 4 Constructing compression functions 8 min](https://www.youtube.com/watch?v=QukLrvrnr3U)
+- :video_camera: [6 4 Constructing compression functions 8 min](https://www.youtube.com/watch?v=QukLrvrnr3U)
+- :video_camera: [SHA-256 | COMPLETE Step-By-Step Explanation (W/ Example)](https://www.youtube.com/watch?v=orIgy2MjqrA&list=LL&index=14)
 
 ### Pairings
 
-- [Pairings in Cryptography](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=3208s)
+- :video_camera: [Pairings in Cryptography](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=3208s)
 - [Pairings for beginners](http://infosec.pusan.ac.kr/wp-content/uploads/2019/09/Pairings-For-Beginners.pdf)
+- :green_book: [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 
 ### Commitment Schemes
 
@@ -187,14 +192,17 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - [Efficient Functional Commitments: How to Commit to a Private Function](https://eprint.iacr.org/2021/1342.pdf)
 - [Polynomial Commitment with a One-to-Many Prover and Applications](https://www.usenix.org/system/files/sec22summer_zhang-jiaheng.pdf)
 - [Commit-Chains: Secure, Scalable Off-Chain Payments](https://eprint.iacr.org/2018/642.pdf)
-- [Lecture 10 Premiere: Privacy on the Blockchain](https://www.youtube.com/watch?v=H3GmsxRU1Kw)
+- :video_camera: [Lecture 10 Premiere: Privacy on the Blockchain](https://www.youtube.com/watch?v=H3GmsxRU1Kw)
 
 ### Accumulators
 
-- [Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains](https://eprint.iacr.org/2018/1188.pdf)
-- [An Expressive (Zero-Knowledge) Set Accumulator](https://user.eng.umd.edu/~cpap/published/accumEUROSP2017.pdf)
+- :scroll: [Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains](https://eprint.iacr.org/2018/1188.pdf)
+- :scroll: [An Expressive (Zero-Knowledge) Set Accumulator](https://user.eng.umd.edu/~cpap/published/accumEUROSP2017.pdf)
 
 ### Merkle Trees
+
+- :green_book: [Some ways to use ZK-SNARKs for privacy](https://vitalik.ca/general/2022/06/15/using_snarks.html)
+- :green_book: [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
 
 ### Universal Composability Model Security
 
@@ -204,6 +212,12 @@ Throughout this list you'll find emojis next to resources, here's what each of t
 - [iUC: Flexible Universal Composability Made Simple](https://eprint.iacr.org/2019/1073.pdf)
 - [Obtaining Universally Composable Security: Towards the Bare Bones of Trust](https://eprint.iacr.org/2007/475.pdf)
 - [Security and composition of cryptographic protocols: a tutorial (part I)](https://dl.acm.org/doi/abs/10.1145/1165555.1165570)
+
+### Threshold Cryptography
+
+- :scroll: [Mithril: Stake-based Threshold Multisignatures](https://eprint.iacr.org/2021/916.pdf)
+- :scroll: [Threshold Cryptography as a Service (in the Multiserver and YOSO Models)](https://eprint.iacr.org/2021/1290)
+- :video_camera: [Fast Multiparty Threshold ECDSA with Fast Trustless Setup](https://www.youtube.com/watch?v=PdfDZIwuZm0&list=LL&index=71)
 
 ## Constraint Systems and Arithmetization
 
@@ -217,14 +231,15 @@ Most proof algorithms make use of pairings, where a specific elliptic curve is l
 ### Rank1 Constraint System and Quadratic Arithmetic Programs
 Important for pairing based SNARKs, such as Groth16.
 
-- [R1CS & QAP Overview](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+- :green_book: [R1CS & QAP Overview](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [R1CS & QAP Implementation Example](https://asecuritysite.com/zero/go_qap)
 - [Paper on DIZK that includes a good description of Groth16, R1CS and QAP](https://eprint.iacr.org/2018/691.pdf)
 
 ### PLONK Arithemtization
 
-- [PLONK Arithmetization](https://hackmd.io/@jake/plonk-arithmetization)
-- [Halo2](https://zcash.github.io/halo2/concepts/)
+- :green_book: [PLONK Arithmetization](https://hackmd.io/@jake/plonk-arithmetization)
+- :books: [Halo2](https://zcash.github.io/halo2/concepts/)
+- :video_camera: [ZK HACK mini - Introduction to Plonky2](https://www.youtube.com/watch?v=p77Av0sXKQ4)
 
 ### Arithmetic Intermediate Representation
 Important for zkEVM execution of SNARKS.
@@ -239,12 +254,13 @@ Important for zkEVM execution of SNARKS.
 - :green_book: [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
 - :green_book: [A Brief Dive Into zk-SNARKs and the ZoKrates Toolbox on the Ethereum Blockchain](https://medium.com/cornellblockchain/a-brief-dive-into-zk-snarks-and-the-zokrates-toolbox-on-the-ethereum-blockchain-cb7bd7f00fdc)
 - :green_book: [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
-- :green_book: [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - :green_book: [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 - :green_book: [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - :green_book: [Demystifying Zero Knowledge Proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.g443f641f0b_1_338)
 - :green_book: [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 - :green_book: [Zero-Knowledge Proofs: STARKs vs SNARKs](https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/)
+- :scroll: [Non-Interactive Zero-Knowledge Proofs for Composite Statements](https://eprint.iacr.org/2018/557)
+- :green_book: [Delendum.xyz: ZK in Identity](https://delendum.xyz/2022/07/26/zk-identity-systems.html)
 
 ### Trusted Setup
 
@@ -294,9 +310,9 @@ Todo: Separate the below list and filter universal, trusted transparent setup, e
 
 ### Multi-Verifier Proofs
 
-- :scroll: [2022-067 MVZK Xiao Wang](https://eprint.iacr.org/2022/063.pdf)
-- :scroll: [2022-082 Feta Carsten Baum](https://eprint.iacr.org/2022/082.pdf)
-- :scroll: [2022-167 MVZK Applebaum](https://eprint.iacr.org/2022/167.pdf)
+- :scroll: [Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs](https://eprint.iacr.org/2022/082.pdf)
+- :scroll: [Non-Interactive Zero-Knowledge Proofs to Multiple Verifiers](https://eprint.iacr.org/2022/063.pdf)
+- :scroll: [Verifiable Relation Sharing and Multi-Verifier Zero-Knowledge in Two Rounds: Trading NIZKs with Honest Majority*](https://eprint.iacr.org/2022/167.pdf)
 
 ### Multi-Prover Proofs
 
@@ -306,13 +322,19 @@ Todo: Separate the below list and filter universal, trusted transparent setup, e
 
 - :scroll: [Designated Verifier Proofs and Their Applications](https://link.springer.com/content/pdf/10.1007/3-540-68339-9_13.pdf)
 
+### Garbled Circuits
+
+- :scroll: [A Gentle Introduction to Yao’s Garbled Circuits](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
+- :video_camera: [MPC-Mike Rosulek-Lecture 2: Advanced Techniques and Optimizations for Garbled Circuits](https://www.youtube.com/watch?v=D6r6o2KQ3Oc&list=LL&index=55)
+- :video_camera: [MPC-Mike Rosulek-Lecture 1-3: Overview of Secure Computation and Yao's Protocol](https://www.youtube.com/watch?v=4jZcGqgZKY8&list=LL&index=54)
+
 ### Interactive Proofs based on VOLE
 
 - :scroll: [Introduction Vector Oblivious Linear Evaluation (Peter Scholl)](http://cyber.biu.ac.il/wp-content/uploads/2021/11/Vector_Oblivious_Linear_Evaluation-1.pdf)
-- :scroll: [2020-925 Wolverine Chenkai Weng](https://eprint.iacr.org/2020/925.pdf?ref=https://githubhelp.com)
-- :scroll: [2020-1410 Mac'N'Cheese Carsten Baum](https://eprint.iacr.org/2020/1410.pdf)
-- :scroll: [2021-076 QuickSilver Kang Yang](https://eprint.iacr.org/2021/076.pdf?ref=https://githubhelp.com)
-- :scroll: [2022-566 AntMan Chenkai Weng](https://eprint.iacr.org/2022/566.pdf)
+- :scroll: [Wolverine: Fast, Scalable, and Communication-Efficient Zero-Knowledge Proofs for Boolean and Arithmetic Circuits](https://eprint.iacr.org/2020/925.pdf)
+- :scroll: [Mac'N'Cheese Carsten Baum](https://eprint.iacr.org/2020/1410.pdf)
+- :scroll: [QuickSilver Kang Yang](https://eprint.iacr.org/2021/076.pdf?ref=https://githubhelp.com)
+- :scroll: [AntMan: Interactive Zero-Knowledge Proofs with Sublinear Communication*](https://eprint.iacr.org/2022/566.pdf)
 
 ### zk Virtual Machines
 
@@ -423,6 +445,8 @@ Reputation and recommendation-based trust systems connected to blockchain verifi
 
 ## Decentralized Data Management
 
+- :green_book: [IPFS: Blog, news & more](https://blog.ipfs.tech/)
+
 ### Access Control
 
 - :scroll: [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209.pdf)
@@ -490,6 +514,7 @@ The privacy tropic in the context of decentralized data management incorporates 
 
 ### Multi Party Computation
 
+- :video_camera: [MPC-Mike Rosulek-Lecture 3: Oblivious Transfer and Extension](https://www.youtube.com/watch?v=l6EcGZYkTug&list=LL&index=53)
 - :bomb: [A curated list of multi party computation resources and links.](https://github.com/rdragos/awesome-mpc)
 - :scroll: [MP-SPDZ: A Versatile Framework for Multi-Party Computation](https://eprint.iacr.org/2020/521.pdf)
 - :scroll: [Faster Secure Two-Party Computation in the Single-Execution Setting](https://eprint.iacr.org/2016/762.pdf)
@@ -499,8 +524,12 @@ The privacy tropic in the context of decentralized data management incorporates 
 - :scroll: [Efficient Constant-Round MPC with Identifiable Abort and Public Verifiability](https://eprint.iacr.org/2020/767.pdf)
 - :scroll: [MPC-TP: Fully Linear PCPs and their Cryptographic Applications - Niv Gilboa](https://www.youtube.com/watch?v=ognJEChMyrk)
 - :scroll: [Founding Secure Computation on Blockchains](https://eprint.iacr.org/2019/253.pdf)
+- :scroll: [YOSO: You Only Speak Once Secure MPC with Stateless Ephemeral Roles](https://eprint.iacr.org/2021/210.pdf)
 
 ### Homomorphic Encryption
+
+- :video_camera: [Paillier homomorphic encryption and a share conversion protocol - Federico Mazzone](https://www.youtube.com/watch?v=bOOesu7O1f8&list=LL&index=52)
+- :scroll:[Efficient Threshold FHE with Application to Real-Time Systems](https://eprint.iacr.org/2022/1625.pdf)
 
 ### Trusted Execution Environments
 
@@ -614,6 +643,7 @@ Todo: Separate blockchain coordinated computation into off-chain computation and
 - :scroll: [SoK: Delegation and Revocation, the Missing Links in the Web’s Chain of Trust](https://oaklandsok.github.io/papers/chuat2020.pdf)
 - :scroll: [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/pdf/2106.00667.pdf)
 - :scroll: [SoK: Benchmarking Flaws in Systems Security](https://arxiv.org/pdf/1801.02381.pdf)
+- :scroll: [SoK: Communication Across Distributed Ledgers](https://allquantor.at/blockchainbib/pdf/zamyatin2019sok.pdf)
 
 ## Application Development
 
@@ -667,6 +697,7 @@ This section is about running blockchain nodes and scaling of backend services.
 - :school: [Ranger - A Rust library for listening to P2P traffic without a full node](https://github.com/Rjected/ranger)
 - :school: [Go Ethereum Development](https://geth.ethereum.org/)
 - :school: [Learn Kubernetes](https://youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
+- :school: [Welcome to the IPFS docs](https://docs.ipfs.tech/)
 
 ### Backend
 
@@ -732,6 +763,12 @@ This section is about running blockchain nodes and scaling of backend services.
 - :file_folder: [zkDocs](https://github.com/a16z/zkdocs)
 - :green_book: [Create your first zero-knowledge snark circuit using circom and snarkjs](https://blog.iden3.io/first-zk-proof.html)
 - :green_book: [ZKP— PlonK Algorithm Introduction](https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a)
+- :school: [Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs](https://github.com/KULeuven-COSIC/Feta)
+
+### STARKs
+
+- :school: [Winterfell 🐺: A STARK prover and verifier for arbitrary computations](https://github.com/facebook/winterfell)
+- :school: [Caigo: Golang Library for StarkNet/Cairo](https://github.com/dontpanicdao/caigo)
 
 ### Multi Party Computation
 
@@ -912,8 +949,15 @@ This section is about running blockchain nodes and scaling of backend services.
       <td><sub></sub></td>
     </tr>
     <tr>
-      <td><sub><a href="https://scholar.google.com/citations?user=gadgSR4AAAAJ&hl=en&oi=sra">E. Glen Weyl</a></sub></td>
+      <td><sub><a href="https://people.cs.georgetown.edu/jthaler/">Justin Thaler</a></sub></td>
       <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+    </tr>
+    <tr>
+      <td><sub><a href="https://scholar.google.com/citations?user=gadgSR4AAAAJ&hl=en&oi=sra">E. Glen Weyl</a></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
       <td><sub></sub></td>
       <td><sub></sub></td>
       <td><sub></sub></td>
@@ -1049,19 +1093,20 @@ This section is about running blockchain nodes and scaling of backend services.
 
 ### TLS1.3
 
-- [A Cryptographic Analysis of the TLS 1.3 Handshake Protocol](https://s3.amazonaws.com/files.douglas.stebila.ca/files/research/papers/JC-DFGS21.pdf)
-- [Cycling Attacks on GCM, GHASH and Other Polynomial MACs and Hashes](https://eprint.iacr.org/2011/202.pdf)
+- :dizzy: [A Cryptographic Analysis of the TLS 1.3 Handshake Protocol](https://s3.amazonaws.com/files.douglas.stebila.ca/files/research/papers/JC-DFGS21.pdf)
+- :scroll: [Cycling Attacks on GCM, GHASH and Other Polynomial MACs and Hashes](https://eprint.iacr.org/2011/202.pdf)
 - [Nonce-Disrespecting Adversaries: Practical Forgery Attacks on GCM in TLS](https://eprint.iacr.org/2016/475.pdf)
-- [Twisted Polynomials and Forgery Attacks on GCM](https://link.springer.com/content/pdf/10.1007/978-3-662-46800-5_29.pdf)
-- [GCM Security Bounds Reconsidered](https://link.springer.com/chapter/10.1007/978-3-662-48116-5_19)
-- [Message Franking via Committing Authenticated Encryption](https://www.iacr.org/archive/crypto2017/10401394/10401394.pdf)
-- [Fast Message Franking: From Invisible Salamanders to Encryptment](https://eprint.iacr.org/2019/016.pdf)
-- [Beyond Birthday Bound Secure MAC in Faulty Nonce Model](https://eprint.iacr.org/2019/127.pdf)
-- [Partitioning Oracle Attacks](https://www.usenix.org/system/files/sec21_slides_len.pdf)
+- :scroll: [Twisted Polynomials and Forgery Attacks on GCM](https://link.springer.com/content/pdf/10.1007/978-3-662-46800-5_29.pdf)
+- :scroll: [GCM Security Bounds Reconsidered](https://link.springer.com/chapter/10.1007/978-3-662-48116-5_19)
+- :scroll: [Message Franking via Committing Authenticated Encryption](https://www.iacr.org/archive/crypto2017/10401394/10401394.pdf)
+- :scroll: [Fast Message Franking: From Invisible Salamanders to Encryptment](https://eprint.iacr.org/2019/016.pdf)
+- :scroll: [Beyond Birthday Bound Secure MAC in Faulty Nonce Model](https://eprint.iacr.org/2019/127.pdf)
+- :scroll: [Partitioning Oracle Attacks](https://www.usenix.org/system/files/sec21_slides_len.pdf)
 - [Implementing and Proving the TLS 1.3 Record Layer](https://cseweb.ucsd.edu/~dstefan/cse227-spring20/papers/tls1.3.pdf)
-- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
+- :bulb: [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
 - [ROSEN: RObust and SElective Non-repudiation (for TLS)](https://dl.acm.org/doi/pdf/10.1145/3474123.3486763), [link2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/522340/3474123.3486763.pdf?sequence=3&isAllowed=y)
 - [Whom You Gonna Trust? A Longitudinal Study on TLS Notary Services](https://publications.sba-research.org/publications/TLSnotaries_preprint.pdf)
+- :scroll: [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing](http://pages.cpsc.ucalgary.ca/~joel.reardon/blockchain/readings/ndss2018_09-4_Ritzdorf_paper.pdf)
 
 ### Decentralizing IoT Management
 
@@ -1088,18 +1133,18 @@ This section is about running blockchain nodes and scaling of backend services.
 
 ### Securing Certificate Issuing
 
-- [Experiences Deploying Multi-Vantage-Point Domain Validation at Let’s Encrypt](https://www.usenix.org/system/files/sec21-birge-lee.pdf)
-- [Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE](https://ieeexplore.ieee.org/abstract/document/9582795)
-- [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf)
-- [TeSC: TLS/SSL-Certificate Endorsed Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9566203)
+- :scroll: [Experiences Deploying Multi-Vantage-Point Domain Validation at Let’s Encrypt](https://www.usenix.org/system/files/sec21-birge-lee.pdf)
+- :scroll: [Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE](https://ieeexplore.ieee.org/abstract/document/9582795)
+- :scroll: [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf)
+- :scroll: [TeSC: TLS/SSL-Certificate Endorsed Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9566203)
 
 ### DNSSEC
 
-- [One Key to Sign Them All Considered Vulnerable: Evaluation of DNSSEC in the Internet](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-shulman.pdf)
-- [Designing for Tussle in Encrypted DNS](https://dl.acm.org/doi/pdf/10.1145/3484266.3487383)
+- :scroll: [One Key to Sign Them All Considered Vulnerable: Evaluation of DNSSEC in the Internet](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-shulman.pdf)
+- :scroll: [Designing for Tussle in Encrypted DNS](https://dl.acm.org/doi/pdf/10.1145/3484266.3487383)
 
 ### Anonymity
 
-- [k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY](https://www.win.tue.nl/~jhartog/CourseVerif/Papers/10.1.1.90.4099.pdf) 
+- :scroll: [k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY](https://www.win.tue.nl/~jhartog/CourseVerif/Papers/10.1.1.90.4099.pdf) 
 
 ---
