@@ -460,6 +460,7 @@ Reputation and recommendation-based trust systems connected to blockchain verifi
 - :scroll: [A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs](https://eprint.iacr.org/2019/589.pdf)
 - :scroll: [Abuse Resistant Law Enforcement Access Systems](https://eprint.iacr.org/2021/321.pdf)
 - :scroll: [TimeCrypt: Encrypted Data Stream Processing at Scale with Cryptographic Access Control](https://www.usenix.org/system/files/nsdi20-paper-burkhalter.pdf)
+- :scroll: [Interactive Authentication](https://eprint.iacr.org/2022/1682.pdf)
 
 ### Data Sharing
 
@@ -780,6 +781,8 @@ This section is about running blockchain nodes and scaling of backend services.
 - :file_folder: [ABY Developer Guide](https://www.informatik.tu-darmstadt.de/media/encrypto/encrypto_code/abydevguide.pdf)
 - :computer: [The Confidential Computing Platform for Collaborative Analytics and AI](https://opaque.co/)
 - :scroll: [Zether: Towards Privacy in a Smart Contract World](https://eprint.iacr.org/2019/191.pdf)
+- :school: [A collection of Bristol format circuit files](https://github.com/n-for-1-auth/circuits)
+- :file_folder: ['Bristol Fashion' MPC Circuits](https://homes.esat.kuleuven.be/~nsmart/MPC/)
 
 ## Programming
 
