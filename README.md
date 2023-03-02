@@ -990,7 +990,7 @@ This section is about running blockchain nodes and scaling of backend services.
 
 ### Scientific Writing
 
-- :scroll: [Scientific Methods in Computer Science](http://poincare.math.rs/~vladaf/Courses/Matf%20MNSR/Literatura/Scientific%20Methods%20in%20Computer%20Science.pdf)
+- :scroll: [Scientific Methods in Computer Science](http://poincare.math.rs/~vladaf/Courses/Matf%20MNSR/Literatura/Scientific%20Methods%20in%20Computer%20Science.pdf), [second_link](https://john.cs.olemiss.edu/~hcc/researchMethods/2014spr/notes/localcopy/cs_method.pdf)
 - :video_camera: [How to Write a Great Research Paper (7 Excellent Tips)](https://www.youtube.com/watch?v=VEXaUHNmpQw)
 - :scroll: [Benchmarking Crimes: An Emerging Threat in Systems Security](https://arxiv.org/pdf/1801.02381.pdf)
 
