@@ -865,7 +865,7 @@ This section is about running blockchain nodes and scaling of backend services.
       <td><sub><span>&#10003;</span></sub></td>
       <td><sub></sub></td>
       <td><sub></sub></td>
-      <td><sub></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
     </tr>
     <tr>
       <td><sub><a href="https://www.semanticscholar.org/author/S.-Micali/1689467">Silvio Micali</a></sub></td>
@@ -967,6 +967,20 @@ This section is about running blockchain nodes and scaling of backend services.
     </tr>
     <tr>
       <td><sub><a href="https://scholar.google.com/citations?user=QbWLR8QAAAAJ&hl=en&oi=sra">Xiao Wang</a></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
+    </tr>
+    <tr>
+      <td><sub><a href="">Eli Ben-Sasson</a></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub><span>&#10003;</span></sub></td>
+    </tr>
+    <tr>
+      <td><sub><a href="https://scholar.google.com/citations?user=rW1Bio0AAAAJ&hl=en&oi=sra">Alessandro Chiesa</a></sub></td>
       <td><sub></sub></td>
       <td><sub></sub></td>
       <td><sub></sub></td>
