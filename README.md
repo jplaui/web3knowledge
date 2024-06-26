@@ -60,7 +60,6 @@ Throughout this list you'll find emojis next to resources, here's what each of t
   - [Unsorted ZKP Systems](#unsorted-zkp-systems)
   - [Recursive Proofs](#recursive-proofs)
   - [Short-lived ZKPs](#short-lived-zkps)
-  - [Zero-knowledge Proxy](#zero-knowledge-proxy)
   - [Multi-Verifier Proofs](#multi-verifier-proofs)
   - [Multi-Prover Proofs](#multi-prover-proofs)
   - [Designated-Verifier Proofs](#designated-verifier-proofs)
@@ -100,6 +99,7 @@ Throughout this list you'll find emojis next to resources, here's what each of t
     - [Off-chain Computation](#off-chain-computation)
     - [Hybrid Computation](#hybrid-computation)
   - [Policy-compliant Computation](#policy-compliant-computation)
+  - [Policy Transpilers](#policy-transpilers)
   - [User Centricity and Data Sovereignty](#user-centricity-and-data-sovereignty)
 - [Systematizations of Knowledge (SoK)](#systematizations-of-knowledge)
 - [Application Development](#application-development)
@@ -303,11 +303,6 @@ Todo: Separate the below list and filter universal, trusted transparent setup, e
 - :scroll: [Short-lived zero-knowledge proofs and signatures](https://eprint.iacr.org/2022/190.pdf)
 - :scroll: [Verifiable Delay Functions](https://link.springer.com/chapter/10.1007/978-3-319-96884-1_25)
 
-### Zero-knowledge Proxy
-
-- :scroll: [Zero-Knowledge Middleboxes](https://eprint.iacr.org/2021/1022.pdf)
-- :scroll: [Blind Certificate Authorities](https://par.nsf.gov/servlets/purl/10163755)
-
 ### Multi-Verifier Proofs
 
 - :scroll: [Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs](https://eprint.iacr.org/2022/082.pdf)
@@ -419,16 +414,24 @@ Todo: separate into on-chain and off-chain credential systems.
 ### Distributed Trust
 Reputation and recommendation-based trust systems connected to blockchain verification.
 
+- :scroll: [Portal: Time-Bound and Replay-Resistant Zero-Knowledge Proofs for Single Sign-On](https://tum-esi.github.io/publications-list/PDF/2024-ZKDAPPS-Portal.pdf)
 - :scroll: [Privacy-Preserving Reputation Systems based on Blockchain and other Cryptographic Building Blocks: A Survey](https://perso.liris.cnrs.fr/omar.hasan/publications/hasan_2021_acm.pdf)
 - :scroll: [A Survey on Authorization in Distributed Systems: Information Storage, Data Retrieval and Trust Evaluation](https://ieeexplore.ieee.org/abstract/document/8029549/)
 - :scroll: [Reflections on trusting distributed trust](https://arxiv.org/pdf/2210.08127.pdf)
 
 ### Decentralized Oracles
 
+- :scroll: [Janus: Fast Privacy-Preserving Data Provenance For TLS](https://eprint.iacr.org/2023/1377.pdf)
+- :scroll: [ORIGO: Proving Provenance of Sensitive Data with Constant Communication](https://eprint.iacr.org/2024/447.pdf)
+- :scroll: [Zero-Knowledge Middleboxes](https://www.usenix.org/system/files/sec22-grubbs.pdf)
+- :scroll: [Zombie: Middleboxes that Don’t Snoop](https://www.usenix.org/system/files/nsdi24-zhang-collin.pdf)
+- :scroll: [Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability](https://eprint.iacr.org/2024/733.pdf)
+- :scroll: [Blind Certificate Authorities](https://par.nsf.gov/servlets/purl/10163755)
 - :scroll: [Chainlink 2.0: Next Steps in the Evolution of Decentralized Oracle Networks](https://research.chain.link/whitepaper-v2.pdf)
 - :scroll: [Chainlink Off-chain Reporting Protocol](https://research.chain.link/ocr.pdf)
 - :scroll: [Town Crier: An Authenticated Data Feed for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/2976749.2978326)
 - :scroll: [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://dl.acm.org/doi/pdf/10.1145/3372297.3417239)
+- :scroll: [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774.pdf)
 - :scroll: [Practical Decentralized Oracle Contracts for Cryptocurrencies](https://eprint.iacr.org/2022/499.pdf)
 - :scroll: [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf)
 - :video_camera: [Youtube: Fan Zhang- "Connection Blockchains to the Real World"](https://www.youtube.com/watch?v=LWphxmUWXG0)
@@ -610,6 +613,10 @@ Todo: Separate blockchain coordinated computation into off-chain computation and
 - [Blockchain Enabled Privacy Audit Logs](https://link.springer.com/chapter/10.1007/978-3-319-68288-4_38)
 - [PRIVGUARD: Privacy Regulation Compliance Made Easier](https://www.usenix.org/system/files/sec22summer_wang-lun.pdf)
 - [LucidiTEE: A TEE-Blockchain System for Policy-Compliant Multiparty Computation with Fairness](https://eprint.iacr.org/2019/178.pdf)
+
+### Policy Transpilers
+
+- :scroll: [zkGen: Policy-to-Circuit Transpiler](https://tum-esi.github.io/publications-list/PDF/2024-ICBC-zkGen.pdf)
 
 #### User Centricity and Data Sovereignty
 
@@ -849,7 +856,7 @@ This section is about running blockchain nodes and scaling of backend services.
       <th><sub>Blockchain Security</sub></th>
       <th><sub>Consensus Algorithms</sub></th>
       <th><sub>Decentralized Finance</sub></th>
-      <th><sub>Decentralized Identity</sub></th>
+      <th><sub>MPC / ZK Research</sub></th>
     </tr>
   </thead>
   <tbody>
@@ -959,11 +966,11 @@ This section is about running blockchain nodes and scaling of backend services.
       <td><sub></sub></td>
     </tr>
     <tr>
-      <td><sub><a href="https://scholar.google.com/citations?user=gadgSR4AAAAJ&hl=en&oi=sra">E. Glen Weyl</a></sub></td>
+      <td><sub><a href="https://scholar.google.com/citations?user=QbWLR8QAAAAJ&hl=en&oi=sra">Xiao Wang</a></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
+      <td><sub></sub></td>
       <td><sub><span>&#10003;</span></sub></td>
-      <td><sub></sub></td>
-      <td><sub></sub></td>
-      <td><sub></sub></td>
     </tr>
   </tbody>
 </table>
@@ -987,6 +994,10 @@ This section is about running blockchain nodes and scaling of backend services.
 ### Grants
 
 - :moneybag: [Gitcoin Grants](https://gitcoin.co/grants/)
+- :moneybag: [Andreessen Horowitz (a16z) Seeds](https://a16z.com/seed/)
+- :moneybag: [Y Combinator Funding](https://www.ycombinator.com/apply)
+- :moneybag: [EWOR](https://www.ewor.com/)
+- :moneybag: [Moonrock Capital](https://www.moonrockcapital.io/)
 
 ### Scientific Writing
 
